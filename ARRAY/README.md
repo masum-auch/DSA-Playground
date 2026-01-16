@@ -12,4 +12,4 @@ Two Pointers
 
 Prefix Sum
 
-Kadane’s Algorithm
+Kadane’s Algorithm.
