@@ -8,4 +8,4 @@ Palindrome
 
 Frequency count
 
-String hashing
+String hashing.
