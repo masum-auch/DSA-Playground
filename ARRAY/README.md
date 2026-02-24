@@ -1,6 +1,6 @@
 Hello I'm Masum
 
-Traversal
+Traversal.
 
 Insert / Delete.
 
