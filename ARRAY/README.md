@@ -2,7 +2,7 @@ Hello I'm Masum
 
 Traversal
 
-Insert / Delete
+Insert / Delete.
 
 Search (Linear & Binary Search)
 
