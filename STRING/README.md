@@ -4,7 +4,7 @@ Two pointer techniques
 
 Anagram
 
-Palindrome
+Palindrome.
 
 Frequency count
 
