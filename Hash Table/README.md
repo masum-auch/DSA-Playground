@@ -1,4 +1,4 @@
-Hash function
+Hash function.
 
 Collision handling
 
