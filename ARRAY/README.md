@@ -10,6 +10,6 @@ Sliding Window
 
 Two Pointers
 
-Prefix Sum
+Prefix Sum.
 
 Kadane’s Algorithm.
