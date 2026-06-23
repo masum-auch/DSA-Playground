@@ -1,4 +1,4 @@
-~Hello I'm Masum
+~Hello, I'm Masum
 
 Traversal.
 
@@ -6,7 +6,7 @@ Insert / Delete.
 
 Search (Linear & Binary Search)
 
-Sliding Window
+Sliding Window.
 
 Two Pointers
 
